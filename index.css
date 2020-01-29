@@ -1,7 +1,7 @@
 body {background-color: black}
 p {color: red}
-h1 {text-align: center;color:#ffdd00}
+h1 {text-align: center;color:#ff0000}
 dt {padding-left: 150px}
-dd {padding-left: 200px}
+dd {padding-left: 200px;color:#ffdd00}
 a:link {color: red}
-a:hover {color: #ffdd00}
+a:hover {color: #ff0000}
