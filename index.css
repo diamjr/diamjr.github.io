@@ -1,2 +1,5 @@
 body {background-color: black}
 p {color: red}
+h1 {text-align: center}
+dt {padding-left: 150px}
+dd {padding-left: 200px}
