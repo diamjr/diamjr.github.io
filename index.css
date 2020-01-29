@@ -3,4 +3,5 @@ p {color: red}
 h1 {text-align: center}
 dt {padding-left: 150px}
 dd {padding-left: 200px}
-a:hover {color: red}
+a:link {color: red}
+a:hover {color: #ffdd00}
