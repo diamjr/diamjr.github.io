@@ -66,6 +66,7 @@ header a:hover {
     background:url('galaxy.jpg') no-repeat 0 -400px;
     text-align: center;
     color: #ffffff;
+    padding-bottom: 10px;
 }
 
 #showcase h1 {
@@ -92,7 +93,6 @@ header a:hover {
 
 #boxes.box img {
     width: 90px;
-    padding-top: 10px;
 }
  
 footer {
