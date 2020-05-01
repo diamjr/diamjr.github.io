@@ -34,13 +34,13 @@ header a {
 header li {
     float:left;
     display:inline;
-    padding: 0 20px 0 20px;
+    padding: 0 20px 90px 20px;
 }
 
 header nav {
     float: right;
-    margin-bottom: 90px;
-    position: sticky;
+    margin-bottom: 10px;
+    position: top sticky;
 }
 
 header#brand {
