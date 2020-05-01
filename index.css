@@ -39,8 +39,8 @@ header li {
 
 header nav {
     float: right;
-    margin-bottom: 10px;
-    position: sticky top;
+    margin-bottom: 90px;
+    position: sticky;
 }
 
 header#brand {
@@ -117,7 +117,9 @@ footer {
         margin-top: 40px;
     }
     
-    
+    header nav {
+        position: sticky;
+    }
 }
 
 
