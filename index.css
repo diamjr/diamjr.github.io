@@ -4,14 +4,14 @@ body {
 
 .nav {
     background-color: #047;
+    text-align: center;
 }
 
 .nav-link {
-    text-align: center;
     text-decoration:none;
     list-style: none;
     display: inline-flex;
-    padding: 0 10px;
+    padding: 10px 10px;
     color: #fff;
 }
 
