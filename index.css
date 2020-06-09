@@ -1,2 +1,8 @@
-nav,li#nav-link {text-decoration:none;list-style: none}
-.head {text-align: center}
+.nav-link {
+    text-decoration:none;
+    list-style: none;
+}
+
+.head {
+    text-align: center;
+}
