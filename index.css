@@ -1,9 +1,12 @@
 .nav-link {
     text-decoration:none;
     list-style: none;
+    display: inline-flex;
 }
 
 .head {
     text-align: center;
     background-color:#d30;
+    min-height: auto;
+    padding: 10px 0px
 }
