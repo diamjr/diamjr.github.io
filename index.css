@@ -3,6 +3,7 @@
 }
 
 .nav-link {
+    text-align: center;
     text-decoration:none;
     list-style: none;
     display: inline-flex;
