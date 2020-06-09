@@ -10,6 +10,10 @@
     color: #fff;
 }
 
+.nav-link#current {
+    color: #d30;
+}
+
 .head {
     text-align: center;
     background-color:#d30;
