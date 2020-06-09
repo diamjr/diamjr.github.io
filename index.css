@@ -1,9 +1,13 @@
-.nav-link {
+.nav {
     background-color: aqua;
+}
+
+.nav-link {
     text-decoration:none;
     list-style: none;
     display: inline-flex;
     padding: 0 10px;
+    color: #fff;
 }
 
 .head {
