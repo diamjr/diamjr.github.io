@@ -2,7 +2,7 @@
     text-decoration:none;
     list-style: none;
     display: inline-flex;
-    margin: auto;
+    padding: 0 10px;
 }
 
 .head {
