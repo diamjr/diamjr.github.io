@@ -4,7 +4,6 @@ body {
 
 .nav {
     background-color: #047;
-    /*display: inline;*/
     text-align: center;
     position: -webkit-sticky; /* Safari */
     position: sticky;
@@ -26,13 +25,13 @@ body {
 }
 
 .nav-link#current {
-    color: #d30;
+    color: #930;
 }
 
 .head {
     color: #fff;
     text-align: center;
-    background-color:#d30;
+    background-color:#930;
     min-height: auto;
     padding: 10px 0px
 }
