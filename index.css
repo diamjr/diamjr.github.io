@@ -3,8 +3,8 @@ body {
 }
 
 .nav {
-    display: inline;
     background-color: #047;
+    display: inline;
     text-align: center;
     position: -webkit-sticky; /* Safari */
     position: sticky;
