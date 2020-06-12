@@ -5,7 +5,9 @@ body {
 .nav {
     background-color: #047;
     text-align: center;
-    top: auto;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }
 
 .nav-link {
