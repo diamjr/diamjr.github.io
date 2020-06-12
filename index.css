@@ -4,7 +4,7 @@ body {
 
 .nav {
     background-color: #047;
-    display: inline;
+    /*display: inline;*/
     text-align: center;
     position: -webkit-sticky; /* Safari */
     position: sticky;
