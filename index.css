@@ -25,13 +25,13 @@ body {
 }
 
 .nav-link#current {
-    color: #930;
+    color: #c30;
 }
 
 .head {
     color: #fff;
     text-align: center;
-    background-color:#930;
+    background-color:#c30;
     min-height: auto;
     padding: 10px 0px
 }
